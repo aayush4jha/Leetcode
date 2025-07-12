@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayush4jha/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aayush4jha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aayush4jha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aayush4jha/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aayush4jha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/aayush4jha/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/aayush4jha/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Depth-First Search
