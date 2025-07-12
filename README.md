@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aayush4jha/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aayush4jha/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aayush4jha/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aayush4jha/Leetcode/tree/master/0054-spiral-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -153,8 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aayush4jha/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aayush4jha/Leetcode/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aayush4jha/Leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aayush4jha/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
