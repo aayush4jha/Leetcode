@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/aayush4jha/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
