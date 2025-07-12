@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aayush4jha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayush4jha/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayush4jha/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/aayush4jha/Leetcode/tree/master/0048-rotate-image) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aayush4jha/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aayush4jha/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aayush4jha/Leetcode/tree/master/0048-rotate-image) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayush4jha/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayush4jha/Leetcode/tree/master/0035-search-insert-position) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aayush4jha/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
