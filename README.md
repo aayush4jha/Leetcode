@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aayush4jha/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aayush4jha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aayush4jha/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/aayush4jha/Leetcode/tree/master/0056-merge-intervals) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aayush4jha/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aayush4jha/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/aayush4jha/Leetcode/tree/master/0056-merge-intervals) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/aayush4jha/Leetcode/tree/master/3778-transform-array-by-parity) |
