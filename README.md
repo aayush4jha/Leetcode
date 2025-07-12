@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/aayush4jha/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aayush4jha/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3875-maximum-good-subtree-score](https://github.com/aayush4jha/Leetcode/tree/master/3875-maximum-good-subtree-score) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aayush4jha/Leetcode/tree/master/0007-reverse-integer) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
