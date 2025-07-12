@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aayush4jha/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush4jha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/aayush4jha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aayush4jha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/aayush4jha/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aayush4jha/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aayush4jha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aayush4jha/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aayush4jha/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/aayush4jha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/aayush4jha/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Trie
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aayush4jha/Leetcode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aayush4jha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
