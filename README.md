@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aayush4jha/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aayush4jha/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aayush4jha/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/aayush4jha/Leetcode/tree/master/0258-add-digits) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -212,8 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayush4jha/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/aayush4jha/Leetcode/tree/master/0258-add-digits) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aayush4jha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aayush4jha/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
