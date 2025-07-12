@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aayush4jha/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aayush4jha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aayush4jha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/aayush4jha/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aayush4jha/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/aayush4jha/Leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/aayush4jha/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [3875-maximum-good-subtree-score](https://github.com/aayush4jha/Leetcode/tree/master/3875-maximum-good-subtree-score) |
 ## Tree
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aayush4jha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aayush4jha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/aayush4jha/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aayush4jha/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aayush4jha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aayush4jha/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
