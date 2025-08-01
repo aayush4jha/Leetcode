@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aayush4jha/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aayush4jha/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aayush4jha/Leetcode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/aayush4jha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aayush4jha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/aayush4jha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aayush4jha/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/aayush4jha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aayush4jha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/aayush4jha/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aayush4jha/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
