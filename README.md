@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aayush4jha/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/aayush4jha/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/aayush4jha/Leetcode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/aayush4jha/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aayush4jha/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aayush4jha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/aayush4jha/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0906-walking-robot-simulation](https://github.com/aayush4jha/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aayush4jha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/aayush4jha/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aayush4jha/Leetcode/tree/master/0682-baseball-game) |
+| [0906-walking-robot-simulation](https://github.com/aayush4jha/Leetcode/tree/master/0906-walking-robot-simulation) |
 ## Union Find
 |  |
 | ------- |
