@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aayush4jha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aayush4jha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/aayush4jha/Leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/aayush4jha/Leetcode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aayush4jha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/aayush4jha/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aayush4jha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/aayush4jha/Leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
