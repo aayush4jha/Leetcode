@@ -7,34 +7,32 @@ public:
         {
             return 0;
         }
-        int peak=-1;
-        for(int i=0;i<n;i++)
+        if(nums[0]>nums[1])
         {
-            if(i==0)
+            return 0;
+        }
+        if(nums[n-1]>nums[n-2])
+        {
+            return (n-1);
+        }
+        int low=1;
+        int high=n-2;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(nums[mid]>nums[mid-1] && nums[mid]>nums[mid+1])
             {
-                if(nums[i]>nums[i+1])
-                {
-                    peak=i;
-                    break;
-                }
+                return mid;
             }
-            else if(i==n-1)
+            else if(nums[mid]>nums[mid-1])
             {
-                if(nums[i-1]<nums[i])
-                {
-                    peak=i;
-                    break;
-                }
+                low=mid+1;
             }
             else
             {
-                if(nums[i]>nums[i-1] && nums[i]>nums[i+1])
-                {
-                    peak=i;
-                    break;
-                }
+                high=mid-1;
             }
         }
-        return peak;
+        return -1;
     }
 };
