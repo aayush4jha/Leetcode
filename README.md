@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/aayush4jha/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/aayush4jha/Leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aayush4jha/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aayush4jha/Leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/aayush4jha/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aayush4jha/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aayush4jha/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/aayush4jha/Leetcode/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aayush4jha/Leetcode/tree/master/0342-power-of-four) |
 | [3875-maximum-good-subtree-score](https://github.com/aayush4jha/Leetcode/tree/master/3875-maximum-good-subtree-score) |
 ## Tree
 |  |
