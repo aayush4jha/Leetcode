@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aayush4jha/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aayush4jha/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/aayush4jha/Leetcode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/aayush4jha/Leetcode/tree/master/1448-maximum-69-number) |
 | [2491-smallest-even-multiple](https://github.com/aayush4jha/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/aayush4jha/Leetcode/tree/master/0135-candy) |
 | [0890-lemonade-change](https://github.com/aayush4jha/Leetcode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/aayush4jha/Leetcode/tree/master/1448-maximum-69-number) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/aayush4jha/Leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
 |  |
