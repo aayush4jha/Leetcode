@@ -15,7 +15,6 @@ public:
             if (depth > 0) result += c;
         }
     }
-    
     return result;
-}
+    }
 };
