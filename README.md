@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aayush4jha/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/aayush4jha/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2047-find-a-peak-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/aayush4jha/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aayush4jha/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aayush4jha/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aayush4jha/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aayush4jha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aayush4jha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aayush4jha/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
