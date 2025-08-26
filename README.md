@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/aayush4jha/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aayush4jha/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
