@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/aayush4jha/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/aayush4jha/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/aayush4jha/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/aayush4jha/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aayush4jha/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aayush4jha/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayush4jha/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush4jha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aayush4jha/Leetcode/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/aayush4jha/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayush4jha/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aayush4jha/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aayush4jha/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush4jha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/aayush4jha/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2481-strictly-palindromic-number](https://github.com/aayush4jha/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
