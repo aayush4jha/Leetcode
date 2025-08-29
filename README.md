@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/aayush4jha/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aayush4jha/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aayush4jha/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayush4jha/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aayush4jha/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/aayush4jha/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aayush4jha/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aayush4jha/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aayush4jha/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aayush4jha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayush4jha/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/aayush4jha/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aayush4jha/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aayush4jha/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/aayush4jha/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aayush4jha/Leetcode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/aayush4jha/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayush4jha/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3875-maximum-good-subtree-score](https://github.com/aayush4jha/Leetcode/tree/master/3875-maximum-good-subtree-score) |
 ## Tree
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush4jha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aayush4jha/Leetcode/tree/master/0414-third-maximum-number) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aayush4jha/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2502-sort-the-people](https://github.com/aayush4jha/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/aayush4jha/Leetcode/tree/master/3778-transform-array-by-parity) |
