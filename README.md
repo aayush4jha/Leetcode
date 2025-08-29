@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/aayush4jha/Leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/aayush4jha/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/aayush4jha/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/aayush4jha/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/aayush4jha/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aayush4jha/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aayush4jha/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aayush4jha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2481-strictly-palindromic-number](https://github.com/aayush4jha/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/aayush4jha/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aayush4jha/Leetcode/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aayush4jha/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
