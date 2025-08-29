@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aayush4jha/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aayush4jha/Leetcode/tree/master/0412-fizz-buzz) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/aayush4jha/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/aayush4jha/Leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/aayush4jha/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/aayush4jha/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aayush4jha/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/aayush4jha/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aayush4jha/Leetcode/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/aayush4jha/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [3875-maximum-good-subtree-score](https://github.com/aayush4jha/Leetcode/tree/master/3875-maximum-good-subtree-score) |
 ## Tree
 |  |
