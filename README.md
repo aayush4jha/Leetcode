@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/aayush4jha/Leetcode/tree/master/1642-water-bottles) |
 | [2481-strictly-palindromic-number](https://github.com/aayush4jha/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/aayush4jha/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [3336-water-bottles-ii](https://github.com/aayush4jha/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush4jha/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aayush4jha/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aayush4jha/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aayush4jha/Leetcode/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/aayush4jha/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/aayush4jha/Leetcode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/aayush4jha/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Union Find
 |  |
 | ------- |
