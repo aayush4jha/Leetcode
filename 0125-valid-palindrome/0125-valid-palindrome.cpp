@@ -1,17 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int left=0, right=s.length()-1;
-        while(left<right)
+        string s1;
+        for(char ch: s)
         {
-            if(!isalnum(s[left])) left++;
-            else if(!isalnum(s[right])) right--;
-            else if(tolower(s[left])!=tolower(s[right])) return false;
-            else
-            {
-                left++; right--;
+            if(isalnum(ch)) {
+                s1 += tolower(ch);
             }
         }
-        return true;
+        return check(s1, 0, s1.size()-1);
+    }
+
+    bool check(const string &s, int l, int r)
+    {
+        if(l>=r) return true;
+        if(s[l]!=s[r]) return false;
+        return check(s, l+1, r-1);
     }
 };
