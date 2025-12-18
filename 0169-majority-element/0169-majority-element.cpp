@@ -8,8 +8,7 @@ public:
         }
         for(auto it: m)
         {
-            if(it.second > nums.size()/2)
-            return it.first;
+            if(it.second > nums.size()/2) return it.first;
         }
         return 0;
     }
